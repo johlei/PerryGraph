@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://user-images.githubusercontent.com/67282051/186034392-ea7143ed-0dda-42ec-bf8e-fa72f8f60fe1.png",
+    "link": "",
+    "text": "johlei (Johannes Leitgeb)"
+  },
+  "text": {
+    "more": "\u003cp\u003eDie Knoten im Netzwerk repräsentieren Artikel der Perrypedia zu den jeweiligen Figuren. Beim Klick auf einzelne Knoten werden weiterführende Informationen angezeigt, darunter verlinkte Knoten, mathematische Kennzahlen der Netzwerkanalyse sowie die URL des Eintrags in der Perrypedia. Das Layout wurde mittels \u003ci\u003eForceAtlas 2\u003c/i\u003e erstellt, die fünf Knoten des Kerns manuell in das Zentrum versetzt.\u003c/p\u003e\n\u003cp\u003e//\u003c/p\u003e\n\u003cp\u003eNodes in the network represent articles on Perrypedia about the corresponding characters. Clicking on nodes shows further information, e.g. linked nodes, mathematical results of the network analysis as well as the article\u0027s URL on Perrypedia. Layout was generated via \u003ci\u003eForceAtlas 2\u003c/i\u003e, the five core nodes were manually placed  center.\u003c/p\u003e",
+    "intro": "Ein Netzwerk der Figuren in Perry Rhodan, basierend auf der Verlinkungsmatrix der \u003ca href\u003d\"https://www.perrypedia.de\"\u003ePerrypedia\u003c/a\u003e.\n\n// Network showing the characters in Perry Rhodan, based on the hyperlink structure of \u003ca href\u003d\"https://www.perrypedia.de\"\u003ePerrypedia\u003c/a\u003e.",
+    "title": "Figuren in Perry Rhodan // Characters in Perry Rhodan"
+  },
+  "legend": {
+    "edgeLabel": "Verlinkung // Link",
+    "colorLabel": "Grad // Degree",
+    "nodeLabel": "Figur // Character"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#fff",
+      "labelThreshold": 3,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

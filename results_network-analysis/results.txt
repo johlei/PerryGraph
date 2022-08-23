@@ -1,0 +1,52 @@
+P E R R Y  R H O D A N
+19353 Knoten und 65170 Kanten im Graphen.
+Mittelwert der Gradverteilung bei: 6.73487314628223.
+Standardabweichung bei: 37.77917757813747.
+Median bei: 3.
+Durchmesser: 11, effektiver Durchmesser: 4.722755076011268 und die durchschnittliche kürzeste Pfadlänge: 3.717514988305124.
+Cluster-Koeffizient: 0.4307585450731659.
+Anzahl der schwach verbundenen Komponenten: 2809.
+Der höchste K-Core der Ordnung 59 mit 121 Knoten.
+Die Degree-Centralization liegt bei: 0.1609956129310555.
+Die Betweenness-Centralization liegt bei: 0.28087741963226587.
+Die Closeness-Centralization liegt bei: 0.4008028488844045.
+
+##########
+
+S M A L L - W O R L D
+Durchschnittlicher Grad: 15.998780550818994.
+Durschnittlicher kürzester Pfad: 5.199203224306309.
+Durchschnittlicher Durchmesser: 7.2.
+Durchschnittlicher Clustering-Koeffizient: 0.5132626452543251.
+Durchschnittliche Degree Centralization: 0.00032047645561043717.
+Random Betweenness Centralization: 0.0011174917403296589.
+
+##########
+
+C O R E - P E R I P H E R Y
+Durchschnittlicher Grad: 1.9979331369813467.
+Durschnittlicher kürzester Pfad: 3.1636080328438623.
+Durchschnittlicher Durchmesser: 8.4.
+Durchschnittlicher Clustering-Koeffizient: 1.2753212025087678e-10.
+Durchschnittliche Degree Centralization: 0.18012413686038362.
+Random Betweenness Centralization: 0.43881698353300336.
+
+##########
+
+S C A L E - F R E E
+Durchschnittlicher Grad: 15.996279646566423.
+Durschnittlicher kürzester Pfad: 3.4181722730326047.
+Durchschnittlicher Durchmesser: 5.
+Durchschnittlicher Clustering-Koeffizient: 0.005835969822041881.
+Durchschnittliche Degree Centralization: 0.033137142993743506.
+Random Betweenness Centralization: 0.037889155237928414.
+
+##########
+
+R A N D O M
+Durchschnittlicher Grad: 6.717304810623676.
+Durschnittlicher kürzester Pfad: 5.398005408014744.
+Durchschnittlicher Durchmesser: 9.
+Durchschnittlicher Clustering-Koeffizient: 0.0003544047314279012.
+Durchschnittliche Degree Centralization: 0.0006451005231374472.
+Random Betweenness Centralization: 0.0015354414693121436.
