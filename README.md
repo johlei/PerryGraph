@@ -4,7 +4,8 @@
 
 ## Einleitung
 
-An dieser Stelle finden sich die Projektdateien für die Visualisierung des Figuren-Netzwerks aller Figuren in *Perry Rhodan*. Die interaktive Visualisierung findet sich unter: https://johlei.github.io/PerryGraph/network_visualization/. 
+An dieser Stelle finden sich die Projektdateien für die Visualisierung des Figuren-Netzwerks aller Figuren in *Perry Rhodan*. Die interaktive Visualisierung findet sich unter: <a href="https://johlei.github.io/PerryGraph/network_visualization/" target="_blank">https://johlei.github.io/PerryGraph/network_visualization/</a>.
+Hinweis: Die Visualisierung ist bisher nicht für mobile Geräte optimiert.
 
 ## Netzwerk
 
@@ -32,7 +33,8 @@ Dieses Repository enthält darüber hinaus:
 
 ## Intro
 
-You'll find here project data for visualizing the character network of all characters appearing in *Perry Rhodan*. The interactive visualization can be found here: https://johlei.github.io/PerryGraph/network_visualization/. 
+You'll find here project data for visualizing the character network of all characters appearing in *Perry Rhodan*. The interactive visualization can be found here: <a href="https://johlei.github.io/PerryGraph/network_visualization/" target="_blank">https://johlei.github.io/PerryGraph/network_visualization/</a>.
+Note: The visualization isn't optimised for mobile devices at the moment.
 
 ## Network
 
