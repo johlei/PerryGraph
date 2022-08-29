@@ -8,7 +8,7 @@ An dieser Stelle finden sich die Projektdateien für die Visualisierung des Figu
 
 ## Netzwerk
 
-Das Netzwerk ist Teil der Analyse der seriellen Struktur von *Perry Rhodan*. Die Knoten im Netzwerk repräsentieren die Figuren der Serie. Kanten im Netzwerk werden angelegt, wenn die zugehörigen Artikel in der [Perrypedia](https://www.perrypedia.de) aufeinander verlinken. Alle Kanten sind ungerichtet, es wird von einer beidseitigen semantischen Affiliation ausgegangen. Knotengröße und -farbe ist in der Visualisierung des Netzwerks abhängig vom Grad der Knoten. *ForceAtlas 2* wurde für das grundlegende Layout verwendet; die fünf Knoten mit dem höchsten Grad wurden für Übersichtlichkeit manuell in die Mitte des Netzwerks versetzt.
+Das Netzwerk ist Teil der Analyse der seriellen Struktur von *Perry Rhodan*. Die Knoten im Netzwerk repräsentieren die Figuren der Serie. Kanten im Netzwerk werden angelegt, wenn die zugehörigen Artikel in der [Perrypedia](https://www.perrypedia.de) aufeinander verlinken. Alle Kanten sind ungerichtet, es wird von einer beidseitigen semantischen Affiliation ausgegangen. Knotengröße und -farbe ist in der Visualisierung des Netzwerks abhängig vom Grad der Knoten. [ForceAtlas 2](https://doi.org/10.1371/journal.pone.0098679) wurde für das grundlegende Layout verwendet; die fünf Knoten mit dem höchsten Grad wurden für Übersichtlichkeit manuell in die Mitte des Netzwerks versetzt (Basis dafür ist die topologische Nähe zu Core-Periphery-Netzwerken).
 
 ## Quellen
 
@@ -36,7 +36,7 @@ You'll find here project data for visualizing the character network of all chara
 
 ## Network
 
-The network is part of analysing the serial structure of *Perry Rhodan*. Nodes in the network represent the characters in the series. Edges are established when at least one of the corresponding articles on [Perrypedia](https://www.perrypedia.de) hyperlinks to the other. Edges are undirected, a mutual semantic affiliation is assumed. Node size and color in the network's visualization is determined by their degree. *ForceAtlas 2* has been used for basic layout; the five nodes with the highest degree have been manually placed in the center for clarity. 
+The network is part of analysing the serial structure of *Perry Rhodan*. Nodes in the network represent the characters in the series. Edges are established when at least one of the corresponding articles on [Perrypedia](https://www.perrypedia.de) hyperlinks to the other. Edges are undirected, a mutual semantic affiliation is assumed. Node size and color in the network's visualization is determined by their degree. [ForceAtlas 2](https://doi.org/10.1371/journal.pone.0098679) has been used for basic layout; the five nodes with the highest degree have been manually placed in the center for clarity (on account of the network being topologically close to core periphery networks). 
 
 ## Sources
 
